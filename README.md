@@ -1,7 +1,7 @@
 ### I'm Em!
 30 | NYC | they/them <br/><br/>
 
-<p> I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy</p>
+ *I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy* 
 
 <h2> These are some projects I'm proud of! </h2>
 
