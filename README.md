@@ -7,7 +7,7 @@
 
 - [Tagged](https://github.com/GH-Squirtle-Squad/tagged)
 > An AR mobile app that allows users to create virtual graffiti
-- [The Mockulator](https://github.com/vinejars/themockulator)
+- [The Mockulator](https://github.com/vinejars/mockulator)
 > A 3 hour coding challenge utilizing regex and MaterialUI
 - [The PEMIS](https://github.com/Prep-Squad/thePEMIS)
 > A Personalized Electronic Meme Index System that allows users to save & store their memes and organize them by tags *(currently in development)*
