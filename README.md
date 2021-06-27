@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/LPGgrh1/github.png" alt="Em Comeau" border="0"><br/>
 NYC | they/them <br/><br/>
 
- *I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy* 
+ *I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy 😎* 
 </div><br/>
 <h2> These are some projects I'm proud of! </h2>
 
