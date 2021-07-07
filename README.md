@@ -7,11 +7,14 @@ NYC | they/them <br/><br/>
 <h2> These are some projects I'm proud of! </h2>
 
 - [Tagged](https://github.com/GH-Squirtle-Squad/tagged)
-> An AR mobile app that allows users to create virtual graffiti
+> An AR mobile app that allows users to create virtual graffiti <br/>
 - [The Mockulator](https://github.com/vinejars/mockulator)
-> A 3 hour coding challenge utilizing regex and MaterialUI
+> A 3 hour coding challenge utilizing regex and MaterialUI<br/>
+- [Memester-Ipsum](https://github.com/vinejars/memester-ipsum)
+> A meme-themed lorem-ipsum generator<br/>
 - [The PEMIS](https://github.com/Prep-Squad/thePEMIS)
 > A Personalized Electronic Meme Index System that allows users to save & store their memes and organize them by tags *(currently in development)*
+
 
 
 
