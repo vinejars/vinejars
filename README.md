@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.ibb.co/rxjjb6b/em.png" alt="Em Comeau" border="0"><br/>
-NYC | they/them <br/><br/>
+  <strong>NYC | they/them</strong> <br/><br/>
 
  *I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy 😎* 
 </div><br/>
