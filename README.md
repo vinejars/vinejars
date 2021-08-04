@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/217627033_211563524212516_3617671756195908607_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_ohc=mJDlNIys8IgAX_Zfo_E&_nc_ht=scontent-lga3-2.xx&oh=2fd5b0f98e4dd2b2eb33be5232d3c58e&oe=60F2A86A" alt="Em Comeau" border="0"><br/>
+<img src="https://i.ibb.co/rxjjb6b/em.png" alt="Em Comeau" border="0"><br/>
 NYC | they/them <br/><br/>
 
  *I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy 😎* 
