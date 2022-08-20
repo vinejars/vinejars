@@ -1,10 +1,8 @@
 <div align="center">
 <img src="https://i.ibb.co/rxjjb6b/em.png" alt="Em Comeau" border="0"><br/>
   <strong>NYC | they/them</strong> <br/><br/>
-
- *I started coding in November of 2020, and am now a Teaching Fellow at the Grace Hopper Program of Fullstack Academy 😎* 
-</div><br/>
-<h2> These are some projects I'm proud of! </h2>
+</div><br/><br/>
+<h2> Old Projects: </h2>
 
 - [Tagged](https://github.com/GH-Squirtle-Squad/tagged)
 > An AR mobile app that allows users to create virtual graffiti <br/>
@@ -12,9 +10,8 @@
 > A 3 hour coding challenge utilizing regex and MaterialUI<br/>
 - [Memester-Ipsum](https://github.com/vinejars/memester-ipsum)
 > A meme-themed lorem-ipsum generator<br/>
-- [The PEMIS](https://github.com/Prep-Squad/thePEMIS)
-> A Personalized Electronic Meme Index System that allows users to save & store their memes and organize them by tags *(currently in development)*
-
+- [Portfolio](https://emcomeau.herokuapp.com)
+> Next on the list to redo.
 
 
 
