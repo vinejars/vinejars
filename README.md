@@ -43,8 +43,4 @@
     <br/><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
     
 </p>
-<br/><br/>
-<p align="right">
-  <strong>Contact me & let's create something amazing together!</strong> <br/>
-<a href='http://linkedin.com/in/em-comeau'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
