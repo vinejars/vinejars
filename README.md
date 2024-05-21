@@ -5,8 +5,10 @@
 <br/><br/>
 <h3> Though everything on here is three years old and not representative of me now...  </h3>
 <p>I did mess around and make this nothingburger cute thing recently: </p>
-- [Lofi Tile Beats To Code To]([https://github.com/GH-Squirtle-Squad/tagged](https://github.com/vinejars/lofitilebeatstocodeto))
-> I just wanted to do something that seemed actually relevant to my job that included data structures as opposed to grinding LC<br/>
+
+- [Lofi Tile Beats to Code To](https://github.com/vinejars/lofitilebeatstocodeto)
+> I just wanted to do something that seemed relevant to my job that included data structures as opposed to grinding LC
+
 <br/><br/>
 <h2> Old Projects: </h2>
 
