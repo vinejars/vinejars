@@ -1,7 +1,13 @@
 <div align="center">
 <img src="https://i.ibb.co/rxjjb6b/em.png" alt="Em Comeau" border="0"><br/>
   <strong>NYC | they/them</strong> <br/><br/>
-</div><br/><br/>
+</div>
+<br/><br/>
+<h3> Though everything on here is three years old and not representative of me now...  </h3>
+<p>I did mess around and make this nothingburger cute thing recently: </p>
+- [Lofi Tile Beats To Code To]([https://github.com/GH-Squirtle-Squad/tagged](https://github.com/vinejars/lofitilebeatstocodeto))
+> I just wanted to do something that seemed actually relevant to my job that included data structures as opposed to grinding LC<br/>
+<br/><br/>
 <h2> Old Projects: </h2>
 
 - [Tagged](https://github.com/GH-Squirtle-Squad/tagged)
@@ -22,6 +28,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <br/>
   	<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
